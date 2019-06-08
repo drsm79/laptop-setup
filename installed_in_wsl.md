@@ -4,6 +4,5 @@ Run the following in wsl (Ubuntu) once the distro is [installed](https://aka.ms/
 sudo add-apt-repository ppa:jon-hedgerows/get-iplayer
 sudo apt update
 sudo apt upgrade
-sudo apt install atomicparsley ffmpeg
-sudo apt install getiplayer
+sudo apt install atomicparsley ffmpeg getiplayer
 ```
