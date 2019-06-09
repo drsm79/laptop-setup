@@ -1,7 +1,7 @@
 In an administrative PowerShell (right click start menu):
 
 ```
-choco install -y firefox adblockplus-firefox wsl wsl-ubuntu-1804 rainmeter vscode cmder 7zip vlc ccleaner inkscape gimp dropbox audacity spotify googledrive synologydrive cloudstation asio4all whatsapp
+choco install -y firefox adblockplus-firefox wsl wsl-ubuntu-1804 rainmeter vscode cmder 7zip vlc ccleaner inkscape gimp dropbox audacity spotify googledrive synologydrive cloudstation asio4all whatsapp launchy
 ```
 
 TODO:
