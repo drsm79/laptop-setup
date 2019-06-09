@@ -1,5 +1,7 @@
+In an administrative PowerShell:
+
 ```
-chocco install firefox adblockplus-firefox wsl wsl-ubuntu-1804 rainmeter vscode cmder 7zip vlc ccleaner inkscape gimp dropbox audacity spotify googledrive synologydrive cloudstation
+chocco install firefox adblockplus-firefox wsl wsl-ubuntu-1804 rainmeter vscode cmder 7zip vlc ccleaner inkscape gimp dropbox audacity spotify googledrive synologydrive cloudstation asio4all
 ```
 
 TODO:
