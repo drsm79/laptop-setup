@@ -1,4 +1,4 @@
-In an administrative PowerShell:
+In an administrative PowerShell (right click start menu):
 
 ```
 chocco install firefox adblockplus-firefox wsl wsl-ubuntu-1804 rainmeter vscode cmder 7zip vlc ccleaner inkscape gimp dropbox audacity spotify googledrive synologydrive cloudstation asio4all
