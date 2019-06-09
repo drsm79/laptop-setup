@@ -9,3 +9,4 @@ I think the following _could_ be scripted, at least partially:
 - [Notestation](https://www.synology.com/en-global/support/download/DS414j#utilities)
 - [Zoom r16 driver](https://www.zoom-na.com/news/r16-r24-driver-update-v210)
 - [Klevgrand instruments](https://klevgrand.se/user/me)
+   * These need to be authed in bitwig, codes from the link
