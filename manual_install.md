@@ -1,4 +1,5 @@
 - [Chocolatey](https://chocolatey.org/install)
+- [Dell drivers](https://www.dell.com/support/home/uk/en/ukdhs1/product-support/servicetag/7f8sqc2/drivers?showresult=true&files=2)
 
 I think the following _could_ be scripted, at least partially:
 
