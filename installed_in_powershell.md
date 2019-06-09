@@ -3,4 +3,6 @@ chocco install firefox adblockplus-firefox wsl wsl-ubuntu-1804 rainmeter vscode 
 ```
 
 TODO:
-write bitwig & all the vsti's as chocco
+write caps to ctrl, bitwig & all the vsti's as chocco
+
+https://devblogs.microsoft.com/scripting/weekend-scripter-use-powershell-to-easily-modify-registry-property-values/
