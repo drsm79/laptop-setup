@@ -12,7 +12,7 @@ My Mac set up is a bit simpler, and all done via brew:
 
 ```
 brew install python3 stgit
-brew install --cask firefox vscodium bitwig-studio spotify whatsapp google-drive
+brew install --cask firefox vscodium bitwig-studio spotify whatsapp google-drive telegram signal
 ```
 
 With oh-my-zsh installed manually & the capslock remapped to control.
